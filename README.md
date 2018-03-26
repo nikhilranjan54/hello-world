@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+hii humans:
+
+
+I am using atom
